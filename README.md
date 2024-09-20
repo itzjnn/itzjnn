@@ -23,6 +23,11 @@ Hey yoo! Nice to meet you. I’m John Florida, but feel free to call me Reii, it
 - I enjoy staying updated with the latest trends in technology and continuously expanding my skill set.
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@johnflorida1839531/30-nites-of-code)  
+  ![@johnflorida1839531 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=johnflorida1839531)
+
 <!--
 **Myles121/Myles121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
