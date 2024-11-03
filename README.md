@@ -19,7 +19,6 @@ Hey yoo! Nice to meet you. I’m John Florida, but feel free to call me Reii, it
 
 ## 🧠 Fun Facts
 
-- I'm CSC eligible and actively pursuing opportunities to work with the **Government of the Philippines**.
 - I enjoy staying updated with the latest trends in technology and continuously expanding my skill set.
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
@@ -27,18 +26,3 @@ Thanks for stopping by! Let's connect and build something amazing together. 🚀
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@johnflorida1839531/30-nites-of-code)  
   ![@johnflorida1839531 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=johnflorida1839531)
-
-<!--
-**Myles121/Myles121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
