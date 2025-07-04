@@ -30,6 +30,7 @@
 **Web & Cloud:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
@@ -52,7 +53,7 @@
 
 ### 🌱 What I'm Learning
 
-- Advancing with **Nuxt.js** and **Laravel** for scalable full-stack apps.
+- Advancing with **React.js** and **Laravel** for scalable full-stack apps.
 - Exploring **cloud technologies** and **DevOps** for smarter deployments.
 - Diving deeper into **machine learning**: building models, analyzing data, and experimenting with AI frameworks.
 
@@ -62,7 +63,6 @@
 
 - <img src="https://img.shields.io/badge/Instagram-@ohh.itzjann-E4405F?style=flat&logo=instagram&logoColor=white"/> [Instagram](https://www.instagram.com/ohh.itzjann/)
 - <img src="https://img.shields.io/badge/Email-johnflorida18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/> [Email](mailto:johnflorida18@gmail.com)
-<!-- - <img src="https://img.shields.io/badge/LinkedIn-John%20Florida-0077B5?style=flat&logo=linkedin&logoColor=white"/> [LinkedIn](https://www.linkedin.com/in/johnflorida/) -->
 
 ---
 
@@ -71,13 +71,6 @@
 - 🕹️ Love hackathons & coding challenges.
 - 🌍 Always learning, always building, always sharing.
 - 🤝 Open for collaboration—let’s create something awesome!
-
----
-
-### 🏆 #30NitesOfCode
-
-[Check out my progress!](https://www.codedex.io/@johnflorida1839531/30-nites-of-code)  
-<img src="https://www.codedex.io/api/petStatus?user=johnflorida1839531" alt="#30NitesOfCode Badge" />
 
 ---
 
