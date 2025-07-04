@@ -51,8 +51,6 @@
 
 ---
 
----
-
 ### 🌱 What I’m Learning & Exploring
 
 - ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) **C++** — mastering systems programming and performance optimization
