@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey yoo! Nice to meet you. I’m John Florida, but feel free to call me Reii, it’s a nickname I go by 🙂. I'm a passionate **Full-Stack Developer** with a focus on creating seamless and efficient web applications. I recently graduated with a **Bachelor of Science in Computer Science**, earning the honor of **Cum Laude** and serving as the **Class Salutatorian**.
+Hey yoo! Nice to meet you. I’m John Florida 🙂. I'm a passionate **Full-Stack Developer** with a focus on creating seamless and efficient web applications. I recently graduated with a **Bachelor of Science in Computer Science**, earning the honor of **Cum Laude** and serving as the **Class Salutatorian**.
 
 ## 🔭 What I'm Working On
 
