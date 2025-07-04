@@ -1,28 +1,36 @@
 ### Hi there 👋
 
-Hey yoo! Nice to meet you. I’m John Florida 🙂. I'm a passionate **Full-Stack Developer** with a focus on creating seamless and efficient web applications. I recently graduated with a **Bachelor of Science in Computer Science**, earning the honor of **Cum Laude** and serving as the **Class Salutatorian**.
+Welcome! I'm **John Florida** 🙂 — a passionate **Full-Stack Developer** dedicated to building seamless, high-performance web applications. I recently graduated with a **Bachelor of Science in Computer Science** and love transforming ideas into impactful software.
 
-## 🔭 What I'm Working On
+---
 
-- Developing web applications that prioritize user experience and performance.
-- Exploring new front-end technologies and frameworks to enhance user experiences.
-- Contributing to open-source projects that align with my interests in web development and software engineering.
+## 🔭 Currently Building
 
-## 🌱 What I'm Learning
+- **User-focused web applications** with an emphasis on performance, accessibility, and modern UI/UX.
+- Experimenting with cutting-edge front-end frameworks to deliver exceptional digital experiences.
 
-- Diving deeper into **Nuxt.js** and **Laravel** to sharpen my skills in full-stack development.
-- Exploring **cloud technologies** and **DevOps** practices to streamline development and deployment processes.
+---
 
-## 📫 How to Reach Me
+## 🌱 Always Learning
 
-- Feel free to reach out to me on [Instagram](https://www.instagram.com/ohh.itzjann/) or shoot me an email at [johnflorida18@gmail.com](mailto:johnflorida18@gmail.com).
+- Deepening my expertise in **React.js** and **Laravel** for advanced full-stack solutions.
+- Staying updated with trends in JavaScript, TypeScript, and backend technologies.
+
+---
+
+## 📫 Connect With Me
+
+- **Instagram:** [@ohh.itzjann](https://www.instagram.com/ohh.itzjann/)
+- **Email:** [johnflorida18@gmail.com](mailto:johnflorida18@gmail.com)
+
+---
 
 ## 🧠 Fun Facts
 
-- I enjoy staying updated with the latest trends in technology and continuously expanding my skill set.
+- Lifelong learner — I love keeping up with emerging tech and continually expanding my skill set.
+- Enjoy collaborating on projects and sharing knowledge with the dev community.
+- Always up for a challenge or hackathon!
+
+---
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@johnflorida1839531/30-nites-of-code)  
-  ![@johnflorida1839531 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=johnflorida1839531)
