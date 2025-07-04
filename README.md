@@ -51,11 +51,16 @@
 
 ---
 
-### 🌱 What I'm Learning
+---
 
-- Advancing with **React.js** and **Laravel** for scalable full-stack apps.
-- Exploring **cloud technologies** and **DevOps** for smarter deployments.
-- Diving deeper into **machine learning**: building models, analyzing data, and experimenting with AI frameworks.
+### 🌱 What I’m Learning & Exploring
+
+- ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) **C++** — mastering systems programming and performance optimization
+- ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=gnuassembly) **Assembly Language** — getting closer to the metal and understanding computers at their core
+- ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-black?style=flat-square&logo=apachespark) **Reverse Engineering** — analyzing binaries and learning how software works under the hood
+- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js) ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) — pushing the limits of full-stack development
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) — building smart applications with machine learning and AI
+- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) — exploring cloud and DevOps for modern deployments
 
 ---
 
