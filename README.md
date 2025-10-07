@@ -21,7 +21,6 @@
 
 - 👨‍💻 Computer Science graduate, passionate about building modern, high-impact web apps and exploring the world of AI.
 - 💡 Always learning new tech, frameworks, and tools.
-- 🤖 Interested in **Machine Learning**, **Data Science**, and turning data into actionable insights.
 
 ---
 
@@ -31,13 +30,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 
 **Machine Learning & Data Science:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -52,28 +47,14 @@
 ---
 
 ### 🌱 What I’m Learning & Exploring
-
-- ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) **C++** — mastering systems programming and performance optimization
-- ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=gnuassembly) **Assembly Language** — getting closer to the metal and understanding computers at their core
-- ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-black?style=flat-square&logo=apachespark) **Reverse Engineering** — analyzing binaries and learning how software works under the hood
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) — pushing the limits of full-stack development
 - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) — building smart applications with machine learning and AI
-- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) — exploring cloud and DevOps for modern deployments
 
 ---
 
 ### 📫 Connect With Me
 
-- <img src="https://img.shields.io/badge/Instagram-@ohh.itzjann-E4405F?style=flat&logo=instagram&logoColor=white"/> [Instagram](https://www.instagram.com/ohh.itzjann/)
 - <img src="https://img.shields.io/badge/Email-johnflorida18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/> [Email](mailto:johnflorida18@gmail.com)
-
----
-
-### 🎯 Fun Facts
-
-- 🕹️ Love hackathons & coding challenges.
-- 🌍 Always learning, always building, always sharing.
-- 🤝 Open for collaboration—let’s create something awesome!
 
 ---
 
