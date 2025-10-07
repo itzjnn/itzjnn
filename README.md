@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is John 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F796&width=435&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Aspiring+Developer;%F0%9F%8C%B1+Lifelong+Learner++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F796&width=435&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Aspiring+Developer;%F0%9F%8C%B1+Lifelong+Learner++" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" />
