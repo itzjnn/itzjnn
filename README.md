@@ -35,12 +35,4 @@
 
 ---
 
-### 📫 Connect With Me
-
-- <img src="https://img.shields.io/badge/Email-johnflorida18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/> [Email](mailto:johnflorida18@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/johnflorida21)  
-- 🌐 [Portfolio](https://www.johnflorida.me) 
-
----
-
 <p align="center">⭐️ Code, learn, and share.</p>
